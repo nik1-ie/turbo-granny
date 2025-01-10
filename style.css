@@ -1,3 +1,40 @@
-h1 {
-    color : red
+body {
+    background-color: #b1e1a3;
+    /*height: 100%;*/
 }
+
+.icons {
+    height: 50px;
+    width: 50px;
+
+}
+
+.head {
+    display: inline;
+}
+
+article {
+    background-color:#fc98a4;
+    border-radius: 20px;
+    margin: 20px;
+    height: 80px;
+}
+
+h1 {
+    color : #fef9c2;
+    font-family: "Chela One";
+    font-size: 50px ;
+    text-align : left;
+}
+
+h2 {
+    color : #fef9c2;
+    font-family: "Chela One";
+    font-size: 35px ;
+    text-align : right;
+}
+
+/*Color palette
+#fc98a4 pink
+#fef9c2 yellow
+#b1e1a3 green */
